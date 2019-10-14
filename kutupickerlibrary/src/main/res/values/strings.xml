@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KutuPicker</string>
+    <string name="actionbar_ok_title">Ok</string>
+    <string name="action_bar_done_title">Done</string>
+    <string name="action_bar_cancel_title">Cancel</string>
+    <string name="action_bar_clear_title">Clear</string>
+    <string name="menu_item_gallery_title">Gallery</string>
+    <string name="menu_item_switch_to_camera">Camera</string>
+</resources>

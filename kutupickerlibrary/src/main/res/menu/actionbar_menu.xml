@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_switch_to_gallery"
+        android:title="@string/menu_item_gallery_title" />
+
+    <item
+        android:id="@+id/menu_item_switch_to_camera"
+        android:title="@string/menu_item_switch_to_camera" />
+
+    <item
+        android:id="@+id/menu_item_done"
+        android:title="@string/action_bar_done_title" />
+
+    <item
+        android:id="@+id/menu_item_clear"
+        android:title="@string/action_bar_clear_title" />
+
+    <item
+        android:id="@+id/menu_item_cancel"
+        android:title="@string/action_bar_cancel_title" />
+</menu>
