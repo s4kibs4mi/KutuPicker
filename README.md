@@ -20,7 +20,7 @@ allprojects {
 
 ```groovy
 dependencies {
-	implementation 'ninja.sakib:KutuPicker:1.0.0'
+	implementation 'ninja.sakib:KutuPicker:1.0.1'
 }
 ```
 
