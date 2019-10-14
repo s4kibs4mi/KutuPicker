@@ -1,4 +1,4 @@
-# KutuPicker
+# KutuPicker [![](https://jitpack.io/v/ninja.sakib/KutuPicker.svg)](https://jitpack.io/#ninja.sakib/KutuPicker)
 KutuPicker is a android image picker library using Camera & Gallery.
 
 ### Usages
